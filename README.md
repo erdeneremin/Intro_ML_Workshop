@@ -1,6 +1,9 @@
 Introduction to Machine Learning Workshop
+
 Organized by TEDU AI & Data Science Society and AFIT (Ankara University Fen ve İstatistik Topluluğu)
+
 📍 For TEDU & Ankara University Students
+
 🗓️ 4-Day Hands-on Workshop
 
 🧠 Overview
